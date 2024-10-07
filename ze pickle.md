@@ -161,4 +161,6 @@ The only thing that is left is to execute a few commands as root:
 
 I enter the final flag and the room is completed.
 
+**Now flex to other people** 😎
+
 ![Room solved](img/success.png)
